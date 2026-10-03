@@ -1,0 +1,19 @@
+{
+	"/": [
+		"src/routes/+layout.server.ts",
+		"src/routes/+layout.server.ts"
+	],
+	"/api/curriculum": [
+		"src/routes/api/curriculum/+server.ts"
+	],
+	"/courses": [
+		"src/routes/+layout.server.ts"
+	],
+	"/matrix": [
+		"src/routes/+layout.server.ts"
+	],
+	"/review": [
+		"src/routes/review/+page.server.ts",
+		"src/routes/+layout.server.ts"
+	]
+}
