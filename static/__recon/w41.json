@@ -1,0 +1,9 @@
+{
+  "batchId": "W41",
+  "pushedAt": "2026-10-02T08:00:00+08:00",
+  "courses": [
+    { "code": "C-101", "term": "2026-FALL", "revision": 7, "title": "程序设计基础", "prerequisites": [], "updatedAt": "2026-10-02T08:00:00+08:00" },
+    { "code": "C-205", "term": "2026-FALL", "revision": 9, "title": "数据结构与算法", "prerequisites": ["C-101"], "updatedAt": "2026-10-02T08:00:00+08:00" },
+    { "code": "C-308", "term": "2026-FALL", "revision": 12, "title": "软件工程实践", "prerequisites": ["C-205", "C-240"], "updatedAt": "2026-10-02T08:00:00+08:00" }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "batchId": "W42",
+  "pushedAt": "2026-10-03T08:00:00+08:00",
+  "courses": [
+    { "code": "C-240", "term": "2026-FALL", "revision": 1, "title": "跨课程协作研讨", "prerequisites": [], "updatedAt": "2026-10-03T08:00:00+08:00" },
+    { "code": "C-330", "term": "2026-FALL", "revision": 1, "title": "跨文化工程沟通", "prerequisites": [], "updatedAt": "2026-10-03T08:00:00+08:00" }
+  ]
+}
